@@ -8,18 +8,18 @@ Tenho desenvolvido conhecimentos técnicos através de estudos e laboratórios p
 
 Competências Técnicas
 
-Configuração de VLANs e Trunking
-SSH e Telnet
-Routing e Switching
-Roteamento estático e OSPF
-NAT e ACLs
-STP e EtherChannel
-DHCP e DHCP Snooping
+Configuração de VLANs, Trunking
+SSH, Telnet
+Routing, Switching
+Roteamento estático,OSPF
+NAT, ACLs
+STP,EtherChannel
+DHCP, DHCP Snooping
 Port Security
-Dynamic Arp Inspection(DAI)
+Dynamic Arp Inspection(DAI),
 FHRP(HSRP)
-CDP,LLDP,Sylog e NTP
-VPN
+CDP, LLDP, Sylog, NTP, 
+VPN e 
 Fundamentos de Segurança de Redes
 
 
