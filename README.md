@@ -14,10 +14,10 @@ Routing, Switching
 Roteamento estático,OSPF
 NAT, ACLs
 STP,EtherChannel
-DHCP, DHCP Snooping
-Port Security
+DHCP, DHCP Snooping,  
+Port Security, 
 Dynamic Arp Inspection(DAI),
-FHRP(HSRP)
+FHRP(HSRP), 
 CDP, LLDP, Sylog, NTP, 
 VPN e 
 Fundamentos de Segurança de Redes
