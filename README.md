@@ -1,7 +1,7 @@
 
 # Olá, sou Emanuel Vita! 👋
 
-**Estudante de Engenharia Informática | CCNA | Redes de Computadores e Cibersegurança**
+**Estudante de Engenharia Informática | CCNA | Redes de Computadores**
 
 Bem-vindo ao meu portfólio profissional no GitHub! Sou estudante de Engenharia Informática, apaixonado por Redes de Computadores, Administração de Redes e Segurança Informática. Desenvolvi conhecimentos técnicos através de estudos e laboratórios práticos, utilizando principalmente o Cisco Packet Tracer.
 
